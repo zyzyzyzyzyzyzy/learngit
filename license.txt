@@ -4,4 +4,10 @@ do your self.And change again
 my change
 20.01have changed
 ok the last change.stupid
+<<<<<<< HEAD
 create a new branch is quick&&simple
+=======
+create a new branch 
+creat a new branch f1
+>>>>>>> f1
+create a new branch is quick and simple
