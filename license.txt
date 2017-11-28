@@ -12,4 +12,8 @@ creat a new branch f1
 >>>>>>> f1
 create a new branch is quick and simple
 d1 wrong
+<<<<<<< Updated upstream
 today ,is oliver
+=======
+19.32i am working
+>>>>>>> Stashed changes
